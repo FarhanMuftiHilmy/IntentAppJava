@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IntentApp</string>
+    <string name="input_name">Masukan Nama</string>
+    <string name="to_second_activity">To second activity</string>
+    <string name="send_message">Send Message</string>
+    <string name="dial">Dial</string>
+    <string name="open_link">Open Link</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="to_third_activity">To third activity</string>
+    <string name="input_address">Masukan Alamat</string>
+</resources>
