@@ -6,7 +6,7 @@
     android:padding="16dp"
     android:orientation="vertical"
     android:gravity="center"
-    tools:context=".SecondActivity">
+    tools:context=".SecondActivityJava">
 
     <TextView
         android:id="@+id/txt_name"
